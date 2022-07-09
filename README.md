@@ -10,9 +10,13 @@ My name is Tarik (also known as Kasperzi). I am a Full-Stack Web Developer, alth
 *   ✉️  You can contact me at [info@kasperzi.com](mailto:info@kasperzi.com)
 *   🧠  I'm learning React & Flutter
 *   🤝  I'm open to collaborating on any application using React and Flutter
-*   ⚡  I'm also a photographer, drone pilot.<a href="https://www.twitter.com/kasperzi" target="_blank" rel="noreferrer"><img
+*   ⚡  I'm also a photographer, drone pilot.
+
+<a href="https://www.twitter.com/kasperzi" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/kasperzi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+                /></a>
+                
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
