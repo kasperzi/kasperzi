@@ -4,7 +4,11 @@ Tarik Jašarević
 PHP & Full-Stack Developer
 -----------------
 
-My name is Tarik (also known as Kasperzi). I am a Full-Stack Web Developer, although I worked on most of the projects as a Front-End Developer. I enjoy creating mobile interfaces and currently focus more on mobile development in my spare time.
+I build custom web systems and business platforms from scratch. 
+Most of my work involves PHP/MySQL backends, REST APIs, and 
+JavaScript frontends — things like order management systems, 
+CRMs, booking engines, inventory platforms, and e-commerce 
+with custom CMS.
 
 * 🌍  I'm based in Tuzla, Bosnia and Herzegovina
 * ✉️  You can contact me at [info@kasperzi.com](mailto:info@kasperzi.com)
