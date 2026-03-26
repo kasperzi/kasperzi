@@ -1,4 +1,4 @@
-Hi 👋 My name is Tarik
+Tarik Jašarević — PHP & Full-Stack Developer
 ======================
 
 Software Engineer
@@ -8,7 +8,6 @@ My name is Tarik (also known as Kasperzi). I am a Full-Stack Web Developer, alth
 
 * 🌍  I'm based in Tuzla, Bosnia and Herzegovina
 * ✉️  You can contact me at [info@kasperzi.com](mailto:info@kasperzi.com)
-* 🧠  I'm learning React & Flutter
 * 🤝  I'm open to collaborating on any application using React and Flutter
 * ⚡  I'm also a photographer, drone pilot.
 
