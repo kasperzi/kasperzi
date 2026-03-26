@@ -5,16 +5,12 @@ PHP & Full-Stack Developer
 -----------------
 
 I build custom web systems and business platforms from scratch. 
-Most of my work involves PHP/MySQL backends, REST APIs, and JavaScript frontends — things like order management systems, CRMs, booking engines, inventory platforms, and e-commerce with custom CMS.
+Most of my work involves PHP/MySQL backends, REST APIs, and JavaScript frontends, things like order management systems, CRMs, booking engines, inventory platforms, and e-commerce with custom CMS.
 
-* 🌍  I'm based in Tuzla, Bosnia and Herzegovina
+* 🌍  Based in Tuzla, Bosnia and Herzegovina
 * ✉️  You can contact me at [info@kasperzi.com](mailto:info@kasperzi.com)
-* 🤝  I'm open to collaborating on any application using React and Flutter
-* ⚡  I'm also a photographer, drone pilot.
+* 🤝  I'm open to collaborating on any application
 
-<a href="https://www.twitter.com/kasperzi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/kasperzi?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
