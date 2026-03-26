@@ -1,4 +1,4 @@
-Tarik Jašarević — PHP & Full-Stack Developer
+##Tarik Jašarević — PHP & Full-Stack Developer
 ======================
 
 Software Engineer
