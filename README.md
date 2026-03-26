@@ -1,7 +1,7 @@
-##Tarik Jašarević — PHP & Full-Stack Developer
+Tarik Jašarević
 ======================
 
-Software Engineer
+PHP & Full-Stack Developer
 -----------------
 
 My name is Tarik (also known as Kasperzi). I am a Full-Stack Web Developer, although I worked on most of the projects as a Front-End Developer. I enjoy creating mobile interfaces and currently focus more on mobile development in my spare time.
